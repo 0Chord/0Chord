@@ -45,6 +45,6 @@ kim0208yh@naver.com
 <img src="https://github-readme-stats.vercel.app/api?username=0Chord&show_icons=true">
 <br>
 <p> 🏅 Baekjoon solved rank 🏅 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimchiwarrior)](https://solved.ac/kimchiwarrior)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimchiwarrior">
 </div>
 
