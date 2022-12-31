@@ -1,3 +1,4 @@
+
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=0Chord%20Github!&fontSize=90" />
 </div>
@@ -5,6 +6,10 @@
 <h4>📧 Email 📧 </h4>
 kim0208yh@naver.com
 </div>
+<div align = center>
+ <h4>🪪 이력서 🪪</h4>
+ https://0chord.shop
+ </div>
 <br>
 <div align = center>
 안녕하세요 😍
@@ -16,8 +21,6 @@ kim0208yh@naver.com
 <br>
 <div align = center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0Chord&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-<div align = center>
 </div>
 <div align = center>
 <h3>📚 Tech Stack 📚</h3>
