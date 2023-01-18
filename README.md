@@ -6,10 +6,6 @@
 <h4>📧 Email 📧 </h4>
 kim0208yh@naver.com
 </div>
-<div align = center>
- <h4>🪪 이력서 🪪</h4>
- https://0chord.shop
- </div>
 <br>
 <div align = center>
 안녕하세요 😍
