@@ -13,6 +13,8 @@ kim0208yh@naver.com
 제 이름은 김영현이고 현재 충북대학교에 재학 중입니다!
   <br>
 지나온 길에 작은 발자국을 남기자는 좌우명을 가지고 백엔드 학습에 임하고 있습니다.
+ <br>
+현재 스프링 뿐만 아니라 데브옵스에도 관심이 있어 공부하고 있습니다:)
 </div>
 <br>
 <div align = center>
@@ -33,11 +35,17 @@ kim0208yh@naver.com
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+ 
 </div>
 <br>
 <div align = center>
 <p>🛠 Tools 🛠</p>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=Nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ 
 </div>
 <br>
 <div align = center>
