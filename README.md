@@ -46,7 +46,6 @@ kim0208yh@naver.com
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
  
 </div>
 <br>
