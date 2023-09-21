@@ -57,3 +57,8 @@ kim0208yh@naver.com
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimchiwarrior">
 </div>
 
+<br/>
+<div align = center>
+ <p> 😍 2022.09.22 ~ 2023.09.21 잔디심기 😍 </p>
+<img width="699" alt="1년 커밋 2022 09 22~2023 09 21" src="https://github.com/0Chord/0Chord/assets/114129008/931429c0-1134-4688-9690-5f94cd810ebf">
+</div>
