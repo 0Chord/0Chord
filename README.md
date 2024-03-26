@@ -5,6 +5,8 @@
 <div align = center>
 <h4>📧 Email 📧 </h4>
 kim0208yh@naver.com
+<h4>📝 이력서 📝</h4>
+<a href="https://0chord.notion.site/0Chord-s-Resume-ced629fee7fb4a3690dd9d6fe6451738?pvs=4">0Chord's Resume</a>
 </div>
 <br>
 <div align = center>
@@ -33,7 +35,6 @@ kim0208yh@naver.com
 <div align = center>
 <p>💻 Frameworks 💻</p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
  
 </div>
@@ -44,7 +45,6 @@ kim0208yh@naver.com
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white"/>
  
 </div>
 <br>
