@@ -6,7 +6,7 @@
 <h4>📧 Email 📧 </h4>
 kim0208yh@naver.com
 <h4>📝 이력서 📝</h4>
-<a href="https://0chord.notion.site/0Chord-s-Resume-ced629fee7fb4a3690dd9d6fe6451738?pvs=4">0Chord's Resume</a>
+<a href="https://www.rallit.com/hub/resumes/1270613">0Chord's Resume</a>
 </div>
 <br>
 <div align = center>
