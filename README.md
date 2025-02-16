@@ -5,14 +5,12 @@
 <div align = center>
 <h4>📧 Email 📧 </h4>
 kim0208yh@naver.com
-<h4>📝 이력서 📝</h4>
-<a href="https://www.rallit.com/hub/resumes/1270613">0Chord's Resume</a>
 </div>
 <br>
 <div align = center>
 안녕하세요 😍
   <br>
-제 이름은 김영현이고 현재 충북대학교에 재학 중입니다!
+제 이름은 김영현이고 현재 충북대학교를 졸업했습니다!
   <br>
 지나온 길에 작은 발자국을 남기자는 좌우명을 가지고 백엔드 학습에 임하고 있습니다.
  <br>
